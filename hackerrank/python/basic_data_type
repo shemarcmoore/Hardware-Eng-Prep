@@ -1,0 +1,6 @@
+if __name__ == '__main__':  #initialize the main function
+    n = int(input())  #n is inputed by user
+    arr = map(int, input().split())  #map object of user inputs, delimited by space, as integer
+    unique_array = sorted(list(set(arr))) #sorts the inputs accendingly, convert to array, and set to be unique
+    runner_up = unique_array[-2]  #stores second to last input to runner_up
+    print(runner_up)  #output
