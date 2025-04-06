@@ -32,7 +32,5 @@ in the image above, the absence of the prefix d indicates it is a file rather th
   - this reverse searches
 - p
   - alias for pwd; this give the current location
-  
-
 Emacs basics: https://youtu.be/jPkIaqSh3cA?si=CG_Z7vEY88oVTgMt
 
