@@ -5,18 +5,18 @@ if __name__ == '__main__':
         score = float(input())
         students.append([name, score])
 
-    #sort the scores into ascending order
+    # sort the scores into ascending order
     scores = sorted(list(set([student[1] for student in students])))
-        #note that set eliminates duplicates, as a set is unique
-        #list orders the contents, mutable and accessable
-        #sorted makes that order ascending
+        # note that set eliminates duplicates, as a set is unique
+        # list orders the contents, mutable and accessable
+        # sorted makes that order ascending
     second_lowest_score = scores[1]
 
-    #assign the second lowest student score based on the sorted score list
+    # assign the second lowest student score based on the sorted score list
     second_lowest_students = sorted([student[0] for student in students if student[1] == second_lowest_score])
     for student_name in second_lowest_students:
         print(student_name)
  
-#note to remember
-#set is mutable, but the items in a set are immutable meaning you can add or remove items from a set, but you cannot changed an item's value, neither by position or at all
-#the hash value is a unique identifier of the contents of a piece of data
+# note to remember
+# set is mutable, but the items in a set are immutable meaning you can add or remove items from a set, but you cannot changed an item's value, neither by position or at all
+# the hash value is a unique identifier of the contents of a piece of data
