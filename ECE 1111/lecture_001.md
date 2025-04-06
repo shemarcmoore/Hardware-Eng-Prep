@@ -32,5 +32,12 @@ in the image above, the absence of the prefix d indicates it is a file rather th
   - this reverse searches
 - p
   - alias for pwd; this give the current location
+- cp *
+  - copy directory command
+-  rm
+  - delete directory command
+  
 Emacs basics: https://youtu.be/jPkIaqSh3cA?si=CG_Z7vEY88oVTgMt
+
+Watch: https://isip.piconepress.com/courses/temple/ece_1111/resources/tutorials/tips_terminal_tools/20200401_mac_terminal_tool.mp4
 
