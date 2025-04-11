@@ -14,7 +14,8 @@ ls -
   - lists name of files in directory
 * both use lexical order; order it was entered into directory
 
-* Pipes - concatenation of commands; output from one command as input to other
+Pipes 
+- concatenation of commands; output from one command as input to other
 
 printenv | grep var # 
 - 'pipes' the output to grep which searches for a line in the environment containing the variable
