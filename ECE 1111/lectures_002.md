@@ -9,13 +9,16 @@ File permissions
 
 d
   - displays file permission
+
 ls -
   - lists name of files in directory
 * both use lexical order; order it was entered into directory
 
 * Pipes - concatenation of commands; output from one command as input to other
+
 printenv | grep var # 
 - 'pipes' the output to grep which searches for a line in the environment containing the variable
+
 wc
 - program that counts lines; can be used as follows
   printenv | grep var | wc
@@ -32,6 +35,7 @@ fg
 
 
 Command Line Programming
+
 find
   - recurse through given directory and prints contents
   - does not use lexical order
@@ -76,6 +80,7 @@ Command Line Regular Expressions
   example: ??? paired with the d command find directories containing 3 letters
 
 Useful Commands
+
 isip_e
   - calls emacs
 
