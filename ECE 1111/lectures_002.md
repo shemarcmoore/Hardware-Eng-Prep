@@ -5,7 +5,7 @@ Environment
 export var 
 - allows variable to persist when exiting the script; makes it available in the environment
 
-* File permissions
+File permissions
 d
   - displays file permission
 ls -
@@ -23,14 +23,14 @@ wc
 - if you were to put script contents in your bashrc, as opposed to bashprofile, it would execute every time
 
 
-* Foreground/Background - run process interactively (foreground) or background
+Foreground/Background - run process interactively (foreground) or background
 %
 - run command in backgroud
 fg
 - run command in foregroud
 
 
-* Command Line Programming
+Command Line Programming
 find
   - recurse through given directory and prints contents
   - does not use lexical order
@@ -68,13 +68,13 @@ history
   history | grep find | grep /data
     - returns commands having find and /data on the same line
 
-* Command Line Regular Expressions
+Command Line Regular Expressions
   - strings are contained between * symbol
   
   - question makes can be used to find soecific names with characters equivalent to number of question marks
   example: ??? paired with the d command find directories containing 3 letters
 
-* Useful Commands
+Useful Commands
 isip_e
   - calls emacs
 
