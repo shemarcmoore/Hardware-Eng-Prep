@@ -6,6 +6,7 @@ export var
 - allows variable to persist when exiting the script; makes it available in the environment
 
 File permissions
+
 d
   - displays file permission
 ls -
