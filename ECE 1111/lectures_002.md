@@ -29,8 +29,10 @@ wc
 
 
 Foreground/Background - run process interactively (foreground) or background
+
 %
 - run command in backgroud
+
 fg
 - run command in foregroud
 
