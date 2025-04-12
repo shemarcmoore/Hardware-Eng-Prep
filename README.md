@@ -7,19 +7,66 @@ Duration: Aim for 8-12 weeks, dedicating 10-15 hours per week.
 
 Core Modules:
 
-Module 1: Solidifying Fundamental Electrical Engineering Concepts (2-3 Weeks)
+Module 1: 
+
+Solidifying Fundamental Electrical Engineering Concepts (2-3 Weeks)
   Review Circuit Theory:
-    Topics: Kirchhoff's Laws (KVL, KCL), Ohm's Law, Thevenin's and Norton's Theorems, AC and DC circuit analysis, impedance, phasors, power calculations.
-      Resources: Review your undergraduate textbooks, Khan Academy (Electrical Engineering), All About Circuits website.
-      Focus: Brush up on problem-solving techniques and ensure a strong understanding of basic circuit behavior.
+    Topics: 
+    * Kirchhoff's Laws (KVL, KCL), Ohm's Law, Thevenin's and Norton's Theorems, AC and DC circuit analysis, impedance, phasors, power calculations.
+
+Resources:
+  1. https://www.youtube.com/watch?v=U_4q0sfChOk&list=PL9KyzjPFbwH37w22z-UHVEt37pdJHjZ7x&ab_channel=BehzadRazavi%28LongKong%29
+
+  2. https://www.youtube.com/watch?v=uXr4lXYjXuU&list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL&ab_channel=TheOrganicChemistryTutor
+
+  3. https://www.youtube.com/watch?v=wGk5OJH6DRM&list=PL3QYrR_osdRpHWLSy2ZaMf-BIWHiI8a9d&ab_channel=ElectronicandElectricalEngineering
+
+  4. https://www.youtube.com/watch?v=A0G1cMv55R8&list=PLX2gX-ftPVXWHJcryxslP6jNhLbIiB2T-&ab_channel=MichelvanBiezen
+     
+  Focus: Brush up on problem-solving techniques and ensure a strong understanding of basic circuit behavior.
+      
   Digital Logic Fundamentals:
-    Topics: Boolean algebra, logic gates (AND, OR, NOT, NAND, NOR, XOR), combinational circuits (adders, multiplexers, decoders), sequential circuits (flip-flops, registers, counters), state machines.
-      Resources: Digital Design textbooks (e.g., Morris Mano), online tutorials (e.g., Coursera, edX).
-      Focus: Understand how digital circuits work at a fundamental level, as this is crucial for many hardware roles.
+  Topics: Boolean algebra, logic gates (AND, OR, NOT, NAND, NOR, XOR), combinational circuits (adders, multiplexers, decoders), sequential circuits (flip-flops, registers, counters), state machines.
+    
+  Resources:
+
+  1. https://www.amazon.com/Computer-Engineering-Hardware-Morris-Mano/dp/0131629263
+
+  2. https://www.youtube.com/watch?v=JQBRzsPhw2w&ab_channel=TheOrganicChemistryTutor
+
+  3. https://www.youtube.com/watch?v=RO5alU6PpSU&ab_channel=TheOrganicChemistryTutor
+
+  4. https://www.youtube.com/watch?v=fLN1YOmuAr8&list=PLwjK_iyK4LLCCpnnybEztvRqxpMyfgarS&ab_channel=ALLABOUTELECTRONICS
+
+  5. https://www.freecodecamp.org/news/state-machines-basics-of-computer-science-d42855debc66/
+
+  6. https://www.youtube.com/watch?v=Qa6csfkK7_I&ab_channel=NesoAcademy
+
+  
+  Focus: Understand how digital circuits work at a fundamental level, as this is crucial for many hardware roles.
+  
   Basic Electronics:
-    Topics: Diodes (rectifiers, LEDs), transistors (BJTs, MOSFETs - basic operation and biasing), operational amplifiers (op-amps - basic configurations like inverting/non-inverting amplifiers, comparators).
-      Resources: Electronic Devices and Circuit Theory textbooks (e.g., Boylestad), online resources.
-      Focus: Gain a foundational understanding of common electronic components and their applications.
+  
+  Topics: Diodes (rectifiers, LEDs), transistors (BJTs, MOSFETs - basic operation and biasing), operational amplifiers (op-amps - basic configurations like inverting/non-inverting amplifiers, comparators).
+  
+  Resources:
+
+  1. https://www.youtube.com/watch?v=g54vURe47gM&ab_channel=TheOrganicChemistryTutor
+
+  2. https://www.youtube.com/watch?v=AcxDiesy-nI&ab_channel=TheOrganicChemistryTutor
+
+  3. https://www.youtube.com/watch?v=0e_OUyGCaBs&ab_channel=TheOrganicChemistryTutor
+
+  4. https://www.youtube.com/watch?v=VJJuxQk5fTY&ab_channel=TheOrganicChemistryTutor
+
+  5. https://www.youtube.com/watch?v=idJEMYhrIfs&ab_channel=TheOrganicChemistryTutor
+
+  6. https://www.youtube.com/watch?v=p4FQyOwjhLA&ab_channel=TheOrganicChemistryTutor
+
+  7. https://www.youtube.com/watch?v=k9zQjEaKtfk&ab_channel=ALLABOUTELECTRONICS
+  
+  Focus: Gain a foundational understanding of common electronic components and their applications.
+
  
 Module 2: Introduction to Microcontrollers and Embedded Systems (3-4 Weeks)
   Microcontroller Architecture:
